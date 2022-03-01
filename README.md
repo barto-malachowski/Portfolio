@@ -13,7 +13,7 @@ I worked as an implementation consultant, and at the same time I was testing two
 ## Tech Skills
 
 - Creating test cases
-- Web pages testing
+- Web site testing
 - SQL
 - JavaScript
 - HTML
