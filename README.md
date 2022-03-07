@@ -23,11 +23,6 @@ I worked as an implementation consultant, and at the same time I was testing two
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
 
-## Tested mobile games with early access
-
-- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US)
-- [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US)
-
 ## My test cases
 
 [Test cases for site maczfit.pl](https://docs.google.com/spreadsheets/d/1B-khf4Cypbe00zJUbbxdaBMk6023IPFmTjsCuSoBmfU/edit#gid=0)
@@ -35,3 +30,8 @@ I worked as an implementation consultant, and at the same time I was testing two
 ## My test scenarios
 
 [Test scenarios for apps and site maczfit.pl](https://docs.google.com/spreadsheets/d/1K3Jl84Tgkf_vkGaqdT5wvSxfarh9FMcWwUE0sXKmoFQ/edit#gid=0)
+
+## Tested mobile games with early access
+
+- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 bugs
+- [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 bug
