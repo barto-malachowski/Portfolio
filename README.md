@@ -35,11 +35,11 @@ Currently I am focusing on developing my skills in JavaScript.
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
 
-## My test cases
+## My test cases examples
 
 [Test cases for site maczfit.pl](https://docs.google.com/spreadsheets/d/1B-khf4Cypbe00zJUbbxdaBMk6023IPFmTjsCuSoBmfU/edit#gid=0)
 
-## My test scenarios
+## My test scenarios examples
 
 [Test scenarios for apps and site maczfit.pl](https://docs.google.com/spreadsheets/d/1K3Jl84Tgkf_vkGaqdT5wvSxfarh9FMcWwUE0sXKmoFQ/edit#gid=0)
 
