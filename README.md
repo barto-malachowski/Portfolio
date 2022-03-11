@@ -2,6 +2,8 @@
 My name is Bartosz Małachowski. I am a tester with engineering knowledge. I started my path in the IT industry in 2021.
 I worked as an implementation consultant, and at the same time I was testing two mobile applications and a customer service portal for a catering company.
 
+Currently I am focusing on developing my skills in JavaScript.
+
 ## Tools
 
 - Excel
