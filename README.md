@@ -18,6 +18,16 @@ I worked as an implementation consultant, and at the same time I was testing two
 - CSS
 - SCRUM
 
+## Courses
+
+- JavaScript - in progress
+- Testowanie oprogramowania - Udemy
+- Tworzenie Stron WWW w HTML i CSS - Udemy
+- Wprowadzenie do Baz Danych - Akademia Kodu
+- SQL - język zapytań do bazy danych SQL Server - Udemy
+- JAVA - Akademia Kodu
+- JAVA - własne aplikacje - Udemy
+
 ## Groups on Facebook
 
 - Tester oprogramowania - wsparcie na starcie
