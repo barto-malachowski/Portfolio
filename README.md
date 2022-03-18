@@ -54,7 +54,7 @@ Currently I am focusing on developing my skills in JavaScript.
 - [BMI calculator](https://bm1-calculator.netlify.app/), web application
 - [Web CV](https://cv-bartosz-malachowski.netlify.app/), website
 
-## Postman
+## Postman - API tests
 
 - [Test for Pokemon API](https://drive.google.com/file/d/153YwmG0TXPBslryhDatYXIhdjJRVRGZE/view?usp=sharing)
 - [Tests for SW API](https://drive.google.com/file/d/1PRqvCdBfr_r8BResABhiWEsacQ6QsEGx/view?usp=sharing)
