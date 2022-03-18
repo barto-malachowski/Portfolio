@@ -47,3 +47,9 @@ Currently I am focusing on developing my skills in JavaScript.
 
 - [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 bugs
 - [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 bug
+
+## My projects
+
+- [Password Generator](https://generator-hasla.netlify.app/)
+- [BMI calculator](https://bm1-calculator.netlify.app/)
+- [Web Resume](https://cv-bartosz-malachowski.netlify.app/)
