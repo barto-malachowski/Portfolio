@@ -50,6 +50,6 @@ Currently I am focusing on developing my skills in JavaScript.
 
 ## My projects
 
-- [Password Generator](https://generator-hasla.netlify.app/)
-- [BMI calculator](https://bm1-calculator.netlify.app/)
-- [Web Resume](https://cv-bartosz-malachowski.netlify.app/)
+- [Password Generator](https://generator-hasla.netlify.app/), web application
+- [BMI calculator](https://bm1-calculator.netlify.app/), web application
+- [Web CV](https://cv-bartosz-malachowski.netlify.app/), website
