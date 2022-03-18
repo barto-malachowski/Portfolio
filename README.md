@@ -57,5 +57,5 @@ Currently I am focusing on developing my skills in JavaScript.
 ## Postman
 
 - [Test for Pokemon API](https://drive.google.com/file/d/153YwmG0TXPBslryhDatYXIhdjJRVRGZE/view?usp=sharing)
-- [Automated test for SW API](https://drive.google.com/file/d/1PRqvCdBfr_r8BResABhiWEsacQ6QsEGx/view?usp=sharing)
-- [Test for restful-booker](https://drive.google.com/file/d/1MVJ-nwKl-aIErlmoQ4EOc1pmqYo-plX2/view?usp=sharing)
+- [Tests for SW API](https://drive.google.com/file/d/1PRqvCdBfr_r8BResABhiWEsacQ6QsEGx/view?usp=sharing)
+- [Tests for restful-booker](https://drive.google.com/file/d/1MVJ-nwKl-aIErlmoQ4EOc1pmqYo-plX2/view?usp=sharing)
