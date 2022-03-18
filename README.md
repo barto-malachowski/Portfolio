@@ -53,3 +53,9 @@ Currently I am focusing on developing my skills in JavaScript.
 - [Password Generator](https://generator-hasla.netlify.app/), web application
 - [BMI calculator](https://bm1-calculator.netlify.app/), web application
 - [Web CV](https://cv-bartosz-malachowski.netlify.app/), website
+
+## Postman
+
+- [Test for Pokemon API](https://drive.google.com/file/d/153YwmG0TXPBslryhDatYXIhdjJRVRGZE/view?usp=sharing)
+- [Automated test for SW API](https://drive.google.com/file/d/1PRqvCdBfr_r8BResABhiWEsacQ6QsEGx/view?usp=sharing)
+- [Test for restful-booker](https://drive.google.com/file/d/1MVJ-nwKl-aIErlmoQ4EOc1pmqYo-plX2/view?usp=sharing)
