@@ -36,9 +36,10 @@ Currently I am focusing on developing my skills in JavaScript.
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
 
-## Webuinars
+## Webinars
 
 - Testowanie REST API
+- API HTTP z użyciem Postman
 
 ## My test cases examples
 
