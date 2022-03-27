@@ -9,6 +9,7 @@ Currently I am focusing on developing my skills in JavaScript.
 - Excel
 - [Trello](http://www.trello.com) - project management tool for developers
 - [Clickup](http://www.clickup.com) - project management tool for developers
+- [Postman](http://postman.com) - Testing tool for REST API
 
 ## Tech Skills
 
@@ -34,6 +35,10 @@ Currently I am focusing on developing my skills in JavaScript.
 
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
+
+## Webuinars
+
+- Testowanie REST API
 
 ## My test cases examples
 
