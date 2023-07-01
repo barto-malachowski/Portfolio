@@ -12,6 +12,7 @@ Currently I am focusing on developing my skills in JavaScript.
 - [Trello](http://www.trello.com) - project management tool for developers
 - [Clickup](http://www.clickup.com) - project management tool for developers
 - [Postman](http://postman.com) - Testing tool for REST API
+- [Azure DevOps](https://azure.microsoft.com) - project management tool for developers
 
 ## Tech Skills
 
