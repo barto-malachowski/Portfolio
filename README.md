@@ -20,6 +20,8 @@ Currently I am focusing on developing my skills in JavaScript.
 - HTML
 - CSS
 - SCRUM
+- Git
+- GitHub
 
 ## Courses
 
