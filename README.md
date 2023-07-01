@@ -1,6 +1,7 @@
 # About me
 My name is Bartosz Małachowski. I am a tester with engineering knowledge. I started my path in the IT industry in 2021.
 I worked as an implementation consultant, and at the same time I was testing two mobile applications and a customer service portal for a catering company.
+
 Currently I'm working as Software Tester at Porta Capena. I am involved in project for creating soft for tracking vehicles and collecting articles and manage them to moment of creating invoices.
 
 Currently I am focusing on developing my skills in JavaScript.
