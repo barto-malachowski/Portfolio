@@ -21,7 +21,6 @@ Currently I am focusing on developing my skills in Python.
 - HTML
 - CSS
 - SCRUM
-- Postman
 - Chrome DevTools
 - Selenium WebDriver
 - Git
