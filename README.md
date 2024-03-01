@@ -4,7 +4,7 @@ I worked as an implementation consultant, and at the same time I was testing two
 
 Currently I'm working as Software Tester at Porta Capena. I am involved in project for creating soft for tracking vehicles and collecting articles and manage them to moment of creating invoices.
 
-Currently I am focusing on developing my skills in JavaScript.
+Currently I am focusing on developing my skills in Python.
 
 ## Tools
 
@@ -18,7 +18,6 @@ Currently I am focusing on developing my skills in JavaScript.
 - Creating test cases
 - Web site testing
 - SQL
-- JavaScript
 - HTML
 - CSS
 - SCRUM
@@ -27,7 +26,6 @@ Currently I am focusing on developing my skills in JavaScript.
 
 ## Courses
 
-- JavaScript - in progress
 - Testowanie oprogramowania - Udemy
 - Tworzenie Stron WWW w HTML i CSS - Udemy
 - Wprowadzenie do Baz Danych - Akademia Kodu
