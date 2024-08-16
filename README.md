@@ -50,7 +50,7 @@ Currently I am focusing on developing my skills in Python.
 
 ## My test scenarios examples
 
-[Test scenarios for apps and site maczfit.pl](https://docs.google.com/spreadsheets/d/1K3Jl84Tgkf_vkGaqdT5wvSxfarh9FMcWwUE0sXKmoFQ/edit#gid=0)
+[Test scenarios and site sport-blast.pl](https://docs.google.com/spreadsheets/d/1K3Jl84Tgkf_vkGaqdT5wvSxfarh9FMcWwUE0sXKmoFQ/edit#gid=0)
 
 ## Tested mobile games with early access
 
