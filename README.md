@@ -46,6 +46,7 @@ Currently I am focusing on developing my skills in Python.
 ## My test cases examples
 
 [Test cases for site maczfit.pl](https://docs.google.com/spreadsheets/d/1B-khf4Cypbe00zJUbbxdaBMk6023IPFmTjsCuSoBmfU/edit#gid=0)
+[Test cases for site sport-blast.pl]([https://docs.google.com/spreadsheets/d/1B-khf4Cypbe00zJUbbxdaBMk6023IPFmTjsCuSoBmfU/edit#gid=0](https://docs.google.com/spreadsheets/d/1B-khf4Cypbe00zJUbbxdaBMk6023IPFmTjsCuSoBmfU/edit?gid=1427983056#gid=1427983056))
 
 ## My test scenarios examples
 
