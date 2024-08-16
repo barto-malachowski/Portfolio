@@ -15,8 +15,8 @@ Currently I am focusing on developing my skills in Python.
 
 ## Tech Skills
 
-- Creating test cases
-- Web site testing
+- Creating test cases and scenarios
+- Web site testing (Exploratory / Functional / Integration / Regression / Retests / E2E tests)
 - SQL
 - HTML
 - CSS
@@ -25,6 +25,7 @@ Currently I am focusing on developing my skills in Python.
 - Selenium WebDriver
 - Git
 - GitHub
+- Python (basics)
 
 ## Courses
 
@@ -54,8 +55,8 @@ Currently I am focusing on developing my skills in Python.
 
 ## Tested mobile games with early access
 
-- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 bugs
-- [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 bug
+- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
+- [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 reported bug
 
 ## My projects
 
