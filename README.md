@@ -53,6 +53,10 @@ Currently I am focusing on developing my skills in Python.
 
 - [Test scenarios for site sport-blast.pl](https://docs.google.com/spreadsheets/d/1K3Jl84Tgkf_vkGaqdT5wvSxfarh9FMcWwUE0sXKmoFQ/edit#gid=0)
 
+## Python apps
+
+- [BMI calculator](https://github.com/barto-malachowski/python-BMI)
+
 ## Tested mobile games with early access
 
 - [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
