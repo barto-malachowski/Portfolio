@@ -58,7 +58,7 @@ Currently I am focusing on developing my skills in Python.
 - [BMI calculator](https://github.com/barto-malachowski/python-BMI)
 - [Guess the number](https://github.com/barto-malachowski/guess_number)
 
-## Python automation tests
+## Python automation tests (soon)
 
 ## Tested mobile games with early access
 
