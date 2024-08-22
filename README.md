@@ -58,6 +58,8 @@ Currently I am focusing on developing my skills in Python.
 - [BMI calculator](https://github.com/barto-malachowski/python-BMI)
 - [Guess the number](https://github.com/barto-malachowski/guess_number)
 
+## Python automation tests
+
 ## Tested mobile games with early access
 
 - [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
