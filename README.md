@@ -61,12 +61,7 @@ Currently I am focusing on developing my skills in Python.
 
 ## Python automation tests (soon)
 
-## Tested mobile games with early access
-
-- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
-- [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 reported bug
-
-## My projects
+## Other projects
 
 - [Password Generator](https://generator-hasla.netlify.app/), web application
 - [BMI calculator](https://bm1-calculator.netlify.app/), web application
@@ -77,3 +72,8 @@ Currently I am focusing on developing my skills in Python.
 - [Test for Pokemon API](https://drive.google.com/file/d/153YwmG0TXPBslryhDatYXIhdjJRVRGZE/view?usp=sharing)
 - [Tests for SW API](https://drive.google.com/file/d/1PRqvCdBfr_r8BResABhiWEsacQ6QsEGx/view?usp=sharing)
 - [Tests for restful-booker](https://drive.google.com/file/d/1MVJ-nwKl-aIErlmoQ4EOc1pmqYo-plX2/view?usp=sharing)
+
+## Tested mobile games with early access
+
+- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
+- [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 reported bug
