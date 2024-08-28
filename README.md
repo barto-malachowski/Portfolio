@@ -59,7 +59,9 @@ Currently I am focusing on developing my skills in Python.
 - [Guess the number](https://github.com/barto-malachowski/guess_number)
 - [Units converter](https://github.com/barto-malachowski/units_converter) 
 
-## Python automation tests (soon)
+## Python automation tests
+- [Playwright](https://github.com/barto-malachowski/playwright)
+- [Selenium](https://github.com/barto-malachowski/selenium)
 
 ## Other projects
 
