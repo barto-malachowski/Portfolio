@@ -1,17 +1,16 @@
 # About me
-My name is Bartosz Małachowski. I am a tester with engineering knowledge. I started my path in the IT industry in 2021.
-I worked as an implementation consultant, and at the same time I was testing two mobile applications and a customer service portal for a catering company.
+My name is Bartosz Małachowski. I am a Software tester with over 3 years of experience in testing web and mobile applications, specializing in manual testing for various businesses.
 
-I am currently working as a Software Tester at Porta Capena. I am involved in testing web and mobile applications.
-
-Currently I am focusing on developing my skills in Python.
+I am skilled in error analysis and test case development. I am also focusing on developing my skills in Python language.
 
 ## Tools
 
 - Excel
-- [Trello](http://www.trello.com) - project management tool for developers
-- [Clickup](http://www.clickup.com) - project management tool for developers
-- [Postman](http://postman.com) - Testing tool for REST API
+- [Postman](http://postman.com) - testing tool for API
+- [Insomnia](https://insomnia.rest/) - testing tool for API 
+- Azure DevOps - project management tool
+- Jira - project management tool
+- JMeter
 
 ## Tech Skills
 
@@ -22,7 +21,7 @@ Currently I am focusing on developing my skills in Python.
 - CSS
 - SCRUM
 - Chrome DevTools
-- Selenium WebDriver
+- Selenium
 - Git
 - GitHub
 - Python (basics)
@@ -34,10 +33,11 @@ Currently I am focusing on developing my skills in Python.
 - Wprowadzenie do Baz Danych - Akademia Kodu
 - SQL - język zapytań do bazy danych SQL Server - Udemy
 
-## Groups on Facebook
+## Groups on socials
 
-- Tester oprogramowania - wsparcie na starcie
-- Testowanie oprogramowania
+- Tester oprogramowania - wsparcie na starcie; facebook
+- Testowanie oprogramowania; facebook
+- Testing Ground - Społeczność testerów i QA; Linkedin
 
 ## Webinars
 
@@ -77,6 +77,6 @@ Currently I am focusing on developing my skills in Python.
 
 ## Tested mobile games with early access
 
-- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
+- [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 5 reported bugs
 - [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 reported bug
 - [Train King Tycoon](https://play.google.com/store/apps/details?id=com.train.king.tycoon.transport.simulator), 6 reported bugs
