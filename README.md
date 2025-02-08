@@ -79,3 +79,4 @@ Currently I am focusing on developing my skills in Python.
 
 - [Puzzle Adventure](https://play.google.com/store/apps/details?id=com.pixelfederation.solve.mystery.puzzle.adventure&hl=pl&gl=US), 4 reported bugs
 - [Travel Town](https://play.google.com/store/apps/details?id=io.randomco.travel&hl=pl&gl=US), 1 reported bug
+- [Train King Tycoon](https://play.google.com/store/apps/details?id=com.train.king.tycoon.transport.simulator), 6 reported bugs
